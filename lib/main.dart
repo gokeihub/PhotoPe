@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
               shadowDegree: ShadowDegree.dark,
               child: const Text(
                 "Image Compressor",
-                style:  TextStyle(color: Colors.white, fontSize: 18),
+                style: TextStyle(color: Colors.white, fontSize: 18),
               ),
             ),
             const SizedBox(height: 20),
